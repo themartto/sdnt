@@ -1,0 +1,51 @@
+[server]
+host = "0.0.0.0"
+port = 8080
+
+[[dns_servers]]
+location = "New York, US"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "Los Angeles, US"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "Toronto, CA"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "Sydney, AU"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "London, UK"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "Frankfurt, DE"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "Nairobi, KE"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "Moscow, RU"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "Cape Town, ZA"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "Beijing, CN"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "Tokyo, JP"
+ip = "1.1.1.1"
+
+[[dns_servers]]
+location = "São Paulo, BR"
+ip = "1.1.1.1"
