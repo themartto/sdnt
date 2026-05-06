@@ -4,48 +4,48 @@ port = 8080
 
 [[dns_servers]]
 location = "New York, US"
-ip = "1.1.1.1"
+ip = "108.179.34.214"
 
 [[dns_servers]]
 location = "Los Angeles, US"
-ip = "1.1.1.1"
+ip = "8.8.4.4"
 
 [[dns_servers]]
 location = "Toronto, CA"
-ip = "1.1.1.1"
+ip = "96.45.46.46"
 
 [[dns_servers]]
 location = "Sydney, AU"
-ip = "1.1.1.1"
+ip = "170.64.147.31"
 
 [[dns_servers]]
 location = "London, UK"
-ip = "1.1.1.1"
+ip = "81.138.71.238"
 
 [[dns_servers]]
 location = "Frankfurt, DE"
-ip = "1.1.1.1"
+ip = "168.119.27.54"
 
 [[dns_servers]]
 location = "Nairobi, KE"
-ip = "1.1.1.1"
+ip = "62.12.116.181"
 
 [[dns_servers]]
 location = "Moscow, RU"
-ip = "1.1.1.1"
+ip = "77.88.8.7"
 
 [[dns_servers]]
 location = "Cape Town, ZA"
-ip = "1.1.1.1"
+ip = "41.173.23.150"
 
 [[dns_servers]]
 location = "Beijing, CN"
-ip = "1.1.1.1"
+ip = "223.6.6.41"
 
 [[dns_servers]]
 location = "Tokyo, JP"
-ip = "1.1.1.1"
+ip = "24.99.9.4"
 
 [[dns_servers]]
 location = "São Paulo, BR"
-ip = "1.1.1.1"
+ip = "177.103.231.245"
